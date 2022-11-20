@@ -1,4 +1,7 @@
 # obierki.pl
+
+## Strona w budowie
+
 Witaj na stronie powstałej podczas Hackatonu HackYeah, jest to strona publiczna przekierowywująca do materiałów powstałych podczas wydarzenia.
 
 
