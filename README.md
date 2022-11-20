@@ -4,4 +4,4 @@ Hackaton HackYeah
 
 [Prezentacja](https://docs.google.com/presentation/d/1fJPk71efMwEtYbppLVzjR57H6i2yd6gS7dFTCIr9Ob0/edit?usp=sharing)
 
-[](https://docs.google.com/forms/d/e/1FAIpQLSfZewqWrx-ZjyEP-sTR4Bfd0yEUvDhqM-HIq7RS8rpX-vwAMw/viewform?usp=sf_link)
+[Formularz](https://docs.google.com/forms/d/e/1FAIpQLSfZewqWrx-ZjyEP-sTR4Bfd0yEUvDhqM-HIq7RS8rpX-vwAMw/viewform?usp=sf_link)
