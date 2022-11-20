@@ -1,4 +1,4 @@
-# obierki
+# obierki.pl
 Hackaton HackYeah
 
 
